@@ -9,7 +9,7 @@ import org.jetbrains.anko.uiThread
 
 class MainActivity : AppCompatActivity(), OnClickListener {
 
-    //renombrar shif+fn+f6
+    //renombrar shif+fn+f6 nuevo dato
     private lateinit var mBinding: ActivityMainBinding //creamos la instancia binding de la activity
 
     private lateinit var mAdapter: StoreAdapter //variable del adaptador
